@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from linepy import *
+from linepy import 
 import json, time, random, tempfile, os, sys
 from gtts import gTTS
 from googletrans import Translator
